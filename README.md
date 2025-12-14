@@ -6,8 +6,8 @@
 <p align="left">I'm passionate fullstack developer from Colombia. Back-end lover 🖤
 
 I have experience building web sites 💻 with different technologies such as: mongodb, PgSQL, sequlizee, nodeJS, react, redux toolkit.
-I implemented different programming languages such as Javascript and TypeScript. Additionally, as ⚒️Geological engineer specialized in 
-environmental management, I made some projects with Python and used the pandas and numpy libraries.
+I implemented different programming languages such as Javascript and TypeScript. Additionally, I have a background as ⚒️Geological engineer specialized in 
+environmental management.
 If you are interested in my profile, please, contact me 😊 </p>
 
 <p align="left"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hoN3BldDF0ZHR5bG8yeHVvdWdseXZxZzBoamU1cXJ6c3l6bXFqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" height="240" width="370"/></p>
