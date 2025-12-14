@@ -1,7 +1,7 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Hi! I'm Maria Gabriela👋
 
-![](https://github.com/MGSandigoMunoz/MGSandigoMunoz/blob/main/Header.png?raw=true)
+![](https://github.com/MGSandigoMunoz/MGSandigoMunoz/blob/main/header.png?raw=true)
 
 <p align="left">I'm passionate fullstack developer from Colombia. Back-end lover 🖤
 
