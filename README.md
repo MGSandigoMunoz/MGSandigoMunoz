@@ -10,7 +10,7 @@ I implemented different programming languages such as Javascript and TypeScript.
 environmental management, I made some projects with Python and used the pandas and numpy libraries.
 If you are interested in my profile, please, contact me 😊 </p>
 
-<p align="right"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hoN3BldDF0ZHR5bG8yeHVvdWdseXZxZzBoamU1cXJ6c3l6bXFqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" height="240" width="370"/></p>
+<p align="left"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hoN3BldDF0ZHR5bG8yeHVvdWdseXZxZzBoamU1cXJ6c3l6bXFqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" height="240" width="370"/></p>
 
 - 👀 I’m interested in back-end
 - 🌱 I’m currently learning TypeScript
